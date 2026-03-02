@@ -1,4 +1,4 @@
-# AI-Powered Loan & Policy Recommendation System
+# Loan Recommendation System
 
 A hackathon-ready web application that evaluates user financial profiles and recommends eligible loan products and sector-specific policies. Built with Next.js 14 (App Router), Tailwind CSS, and Supabase.
 
